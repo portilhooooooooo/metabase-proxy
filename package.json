@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node index.js"
+    "start": "node metabase-proxy.js"
   },
   "dependencies": {
     "express": "^5.1.0",
